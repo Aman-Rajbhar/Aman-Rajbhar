@@ -1,6 +1,6 @@
 Hola! 👋, I'm Aman Suresh Rajbhar
 
-I'm Currently in second year Instrumentation branch from Vivekananda Education Society Institute of Technology,
+ Currently in second year Instrumentation branch from Vivekananda Education Society Institute of Technology,
 live in mumbai, specialized in HTML,CSS (Bootstrap). 
 
 Skills:
