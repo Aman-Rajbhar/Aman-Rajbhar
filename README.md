@@ -1,20 +1,18 @@
 Hola! 👋, I'm Aman Suresh Rajbhar
 
-I'm, a SE Instrumentation Student studying in Vivekananda Education Society Institute of Technology,
-living at mumbai, specialized in HTML,CSS (Bootstrap Frameworks). 
+I'm Currently in second year Instrumentation branch from Vivekananda Education Society Institute of Technology,
+live in mumbai, specialized in HTML,CSS (Bootstrap). 
 
 Skills:
 
-◾ C, Java 
-
+◾  
 ◾ HTML, CSS, JavaScript & Bootstrap 
-
-◾ PHP (MYSQL) 
-
+◾ PHP,  MySQL, JQuerry 
 ◾ Good Management & Communication Skills
 
 
- 📫Email id = amanrajbhar104@gmail.com
+
+ 📫Email id = amanrajbhar105@gmail.com
 
 <!---
 Aman-Rajbhar/Aman-Rajbhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
