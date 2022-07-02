@@ -1,12 +1,12 @@
 Hello! 👋, I'm Aman Suresh Rajbhar
 
  Currently in second year Instrumentation branch from Vivekananda Education Society Institute of Technology,
-live in mumbai, specialized in HTML,CSS (Bootstrap). 
+live in mumbai, specialized in HTML & CSS. 
 
 Skills:
 
 ◾ HTML, CSS, JavaScript & Bootstrap 
-◾ PHP,  MySQL, JQuerry 
+◾ React, PHP, MySQL & JQuerry 
 
  📫Email id = amanrajbhar105@gmail.com
 
