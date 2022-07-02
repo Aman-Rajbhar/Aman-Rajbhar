@@ -4,7 +4,6 @@ Hello! 👋, I'm Aman Suresh Rajbhar
 live in mumbai, specialized in HTML & CSS. 
 
 Skills:
-
 ◾ HTML, CSS, JavaScript  
 ◾ PHP, MySQL, JQuerry, Node.js  
 ◾ Bootstrap, React
