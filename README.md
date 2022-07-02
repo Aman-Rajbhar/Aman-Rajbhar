@@ -6,8 +6,8 @@ live in mumbai, specialized in HTML & CSS.
 Skills:
 
 ◾ HTML, CSS, JavaScript  
+◾ PHP, MySQL, JQuerry, Node.js  
 ◾ Bootstrap, React
-◾ PHP, MySQL, JQuerry, Node.js
 
  📫Email id = amanrajbhar105@gmail.com
 
