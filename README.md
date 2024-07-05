@@ -1,7 +1,7 @@
 Hello! 👋, I'm Aman Rajbhar
 
- Currently in third year of Instrumentation branch from Vivekananda Education Society Institute of Technology (VESIT),
-live in mumbai, specialized in HTML & CSS. 
+ Currently in final year of Automation and Robotics branch from Vivekananda Education Society Institute of Technology (VESIT),
+live in mumbai, specialized in HTML & CSS
 
 Skills:  
 ◾ HTML, CSS, JavaScript  
